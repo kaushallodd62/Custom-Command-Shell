@@ -1,4 +1,4 @@
-# Custom Shell Written in C
+# Custom Command Shell Written in C
 
 ## 1. Basic stuff  
 The shell runs an infinite loop (which only exits with the `exit` command) and interactively processes user commands. It prints a prompt that indicate the current working directory followed by `$` character.  
